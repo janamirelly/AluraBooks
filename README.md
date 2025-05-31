@@ -5,7 +5,7 @@
 --
 ## 📸 Demonstração
 
-(https://janamirelly.github.io/AluraBooks/)
+Clique aqui -> https://janamirelly.github.io/AluraBooks/)
 
 ---
 
