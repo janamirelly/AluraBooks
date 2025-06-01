@@ -2,8 +2,7 @@
 
 > Projeto desenvolvido com foco em **mobile-first**, totalmente **responsivo para mobile e desktop**, utilizando **HTML e CSS** com **Flexbox** e **pseudo-classes** para interações. Inclui **carrossel de cards com Swiper.js** integrado via script no HTML.
 
---
-## Demonstração
+---
 
 Clique aqui -> https://janamirelly.github.io/AluraBooks/
 
