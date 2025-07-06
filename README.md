@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://janamirelly.github.io/AluraBooks/" target="_blank">
-    <img src="./imagens/screenshot.png" alt="HTML/CSS" style="max-width: 100%; height: auto;" />
+    <img src="/imagens/screenshot.png" alt="" style="max-width: 100%; height: auto;" />
   </a>
 </p>
 
