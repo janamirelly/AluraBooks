@@ -1,16 +1,3 @@
-<p align="center">
-  <a href="https://janamirelly.github.io/AluraBooks/" target="_blank">
-    <img src="/imagens/screenshot.png" alt="" style="max-width: 100%; height: auto;" />
-  </a>
-</p>
-
-<p align="center">
-  👉 <a href="https://janamirelly.github.io/AluraBooks/" target="_blank">
-    Clique na imagem para ver o projeto no navegador
-  </a>
-</p>
-
-
 
 # 📱 Projeto Responsivo com Mobile-First
 
