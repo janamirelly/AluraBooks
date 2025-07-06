@@ -1,3 +1,17 @@
+<p align="center">
+  <a href="https://janamirelly.github.io/AluraBooks/" target="_blank">
+    <img src="./imagens/screenshot.png" alt="HTML/CSS" style="max-width: 100%; height: auto;" />
+  </a>
+</p>
+
+<p align="center">
+  👉 <a href="https://janamirelly.github.io/AluraBooks/" target="_blank">
+    Clique na imagem para ver o projeto no navegador
+  </a>
+</p>
+
+
+
 # 📱 Projeto Responsivo com Mobile-First
 
 > Projeto desenvolvido com foco em **mobile-first**, totalmente **responsivo para mobile e desktop**, utilizando **HTML e CSS** com **Flexbox** e **pseudo-classes** para interações. Inclui **carrossel de cards com Swiper.js** integrado via script no HTML.
